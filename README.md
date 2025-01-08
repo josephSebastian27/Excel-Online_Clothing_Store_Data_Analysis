@@ -23,3 +23,6 @@ Orders by Age and Gender: A comparison of order distribution among adults, senio
 Tools Used
 
 Microsoft Excel: Data cleaning, processing, and visualization
+
+Report View:
+![Online_Clothing_Store_Data_Report](https://github.com/user-attachments/assets/0fc26328-95f5-418a-96d4-88c40fe05ec3)
