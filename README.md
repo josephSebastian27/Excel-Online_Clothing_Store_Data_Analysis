@@ -1,12 +1,12 @@
-#Excel -Online Clothing Store Data Analysis
+# Excel -Online Clothing Store Data Analysis
 
-#Project Overview
+Project Overview
 
 This project analyzes sales data from an online clothing store for the year 2022. It uses Excel to generate an interactive dashboard summarizing key insights such as revenue trends, customer demographics, and order distribution. The analysis helps to identify patterns and drive data-driven business decisions.
 
-#Features
+Features
 
-**The dashboard includes the following visualizations and insights:
+The dashboard includes the following visualizations and insights:
 
 Orders vs. Sales: A monthly breakdown of total revenue and order counts.
 
@@ -20,6 +20,6 @@ Top 5 States by Sales: A bar chart of the states generating the highest revenue.
 
 Orders by Age and Gender: A comparison of order distribution among adults, seniors, and teenagers by gender.
 
-#Tools Used
+Tools Used
 
-**Microsoft Excel: Data cleaning, processing, and visualization
+Microsoft Excel: Data cleaning, processing, and visualization
